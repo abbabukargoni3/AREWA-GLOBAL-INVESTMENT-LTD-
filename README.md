@@ -1,4 +1,3 @@
-Here’s the **ready-to-use website** with your contact details, business activities, and address written as **Abuja Sheraton Hadiza Memorial School Street**.
 
 ### Set it up
 
